@@ -1,0 +1,112 @@
+Supply Chain Performance Review — Q1 FY 2025-26
+Meridian Components Pvt. Ltd. Automotive Electronic Control Units & Wiring Harnesses Registered Office:
+Chakan Industrial Area, Pune 410501 · Plants: Chakan (Pune) and Hosur (Tamil Nadu)
+Review period: 1 April 2025 to 30 June 2025 · Issued: 18 July 2025 Prepared by: Supply Chain Analytics Cell ·
+Reviewed by: Head of Procurement, Head of Logistics Circulation: Internal — Management Committee, Plant
+Heads, Category Managers · Document ref: MCPL/SCM/QR/2025-26/Q1
+1. Executive summary
+Quarter 1 of FY 2025-26 was a difficult quarter for inbound supply. Total procurement spend stood at ₹81.6 crore
+across the six primary suppliers, broadly in line with the plan of ₹79.4 crore. However, on-time delivery across the
+supplier base averaged 88.4% against a target of 95%, and incoming quality deteriorated to 480 defects per million
+parts against a target of 250.
+Seven line-stoppage events were recorded across the two plants, costing 41 hours of production downtime and an
+estimated ₹1.9 crore in lost output. Four of the seven were caused by delayed microcontroller shipments from
+Shenzhen Rui Electronics, our single source for that part.
+Inventory rose to ₹68.4 crore as of 30 June 2025 from ₹61.2 crore at the close of the previous quarter, driven
+largely by defensive buffer stock built up in May and June in response to the microcontroller situation. Inventory
+turns fell to 6.8 against a target of 8.0.
+The single largest structural risk carried into Q2 is the absence of a second source for microcontrollers.
+Qualification of an alternate supplier is under way and is discussed in Section 8.
+2. Supplier performance scorecard
+Supplier Category Location On-time delivery Defect PPM Avg lead time (days) Q1 spend (₹ crore)
+Nexa Polymers Ltd Plastic housings Vadodara, India 96.4% 320 18 12.4
+Kaveri Metals Pvt Ltd Stamped contacts Coimbatore, India 88.1% 1,150 22 8.7
+Shenzhen Rui Electronics Microcontrollers Shenzhen, China 79.5% 210 46 21.9
+Baltic Wire GmbH Copper wire Bremen, Germany 93.7% 90 38 15.2
+Sunrise Connectors Connectors Chennai, India 98.2% 140 12 6.1
+Trident Circuit Boards Printed circuit boards Penang, Malaysia 84.6% 640 31 17.3
+Weighted average / total 88.4% 480 34 81.6
+Notes on the scorecard:
+• Shenzhen Rui Electronics remains our highest-spend supplier at ₹21.9 crore and simultaneously our worst
+performer on delivery at 79.5%. This is the second consecutive quarter in which its on-time delivery has fallen
+below 85%; Q4 FY 2024-25 closed at 83.2%.
+• Kaveri Metals shipped three lots rejected for burr formation on stamped contacts during May 2025. A
+containment sort was carried out at our Chakan incoming dock at the supplier's cost, and 100% inspection
+remains in force.
+• Trident Circuit Boards shipped boards with solder-mask misregistration in the April and June batches. The
+supplier has accepted the finding and attributes it to a change of photoresist chemistry at its Penang line.
+• Sunrise Connectors is the only supplier to have met every target for four consecutive quarters and has been
+recommended for the Supplier of the Year shortlist.
+3. Logistics and freight performance
+Lane Mode Avg transit (days) Cost per shipment (₹) On-time arrival
+Shenzhen → Nhava Sheva → Chakan Ocean FCL 26 4,85,000 76%
+Shenzhen → Chennai (expedite) Air 4 11,20,000 94%
+Bremen → Nhava Sheva → Chakan Ocean LCL 31 2,95,000 88%
+Penang → Chennai → Hosur Ocean FCL 19 3,40,000 85%
+Coimbatore → Chakan Road FTL 3 62,000 91%
+Vadodara → Chakan Road FTL 2 38,000 97%
+Total inbound freight spend for the quarter was ₹6.42 crore against a budget of ₹5.10 crore, an overrun of 25.9%.
+The overrun is almost entirely explained by nine emergency air shipments from Shenzhen taken in May and June to
+protect production, at roughly 2.3 times the per-shipment cost of ocean freight.
+Customs clearance at Nhava Sheva averaged 6.4 days against a historical norm of 3.5 days. One consignment of
+microcontrollers was held for 9 days in May pending a classification query, which directly caused two of the seven
+line stoppages recorded in Section 5.
+4. Inventory position
+Metric 31 Mar 2025 30 Jun 2025 Target
+Raw material cover (days) 36 42 35
+Work in progress (days) 5 6 5
+Finished goods cover (days) 16 18 15
+Total inventory value (₹ crore) 61.2 68.4 58.0
+Inventory turns (annualised) 7.6 6.8 8.0
+Slow-moving and obsolete provision (₹ crore) 1.7 2.1 —
+The increase of ₹7.2 crore in inventory value is attributed to three factors: buffer stock of microcontrollers built in
+June (₹4.1 crore), higher copper wire holding following a price increase (₹1.8 crore), and slower finished-goods
+offtake in June owing to a customer plant shutdown (₹1.3 crore).
+The slow-moving and obsolete provision rose to ₹2.1 crore. Of this, ₹0.9 crore relates to connector variants for a
+programme discontinued by the customer in January 2025, which have now had no movement for more than 365
+days.
+5. Line stoppages and disruption events
+Seven line-stoppage events were recorded, totalling 41 hours of downtime and an estimated production loss of
+₹1.9 crore.
+# Date Plant Duration (hrs) Root cause
+1 22 Apr 2025 Chakan 4 Microcontroller shortage — vessel roll-over at Shenzhen
+2 09 May 2025 Chakan 11 Microcontroller shortage — 9-day customs hold at Nhava Sheva
+3 14 May 2025 Hosur 3 PCB lot rejected at incoming inspection (Trident)
+4 27 May 2025 Chakan 6 Microcontroller shortage — partial shipment received
+5 06 Jun 2025 Chakan 5 Transporter strike, Coimbatore–Pune corridor
+6 17 Jun 2025 Hosur 8 PCB lot rejected at incoming inspection (Trident)
+7 25 Jun 2025 Chakan 4 Microcontroller shortage — allocation shortfall from supplier
+Four of the seven events (22 hours of the 41) trace back to microcontroller supply from Shenzhen Rui Electronics.
+Two events (11 hours) trace to printed circuit board quality from Trident Circuit Boards. One event (5 hours) was
+caused by an external transport disruption outside supplier control.
+6. Quality performance
+Incoming defect rate for the quarter was 480 parts per million against a target of 250 PPM. Cost of poor quality
+attributable to incoming material was ₹0.74 crore, comprising rework of ₹0.41 crore, sorting and containment of
+₹0.19 crore, and scrap of ₹0.14 crore.
+Two suppliers accounted for 86% of all incoming defects by count: Kaveri Metals at 1,150 PPM and Trident Circuit
+Boards at 640 PPM. Both suppliers have been placed under 100% incoming inspection. Supplier corrective action
+reports were requested from both; Kaveri responded within the required window, Trident's response was received
+11 days late.
+7. Demand and planning accuracy
+Month Forecast (ECU units) Actual (ECU units) Variance
+April 2025 1,35,000 1,42,000 +5.2%
+May 2025 1,44,000 1,58,000 +9.7%
+June 2025 1,62,000 1,31,000 −19.1%
+Forecast accuracy measured as mean absolute percentage error was 23% for the quarter against a target of 15%.
+The June miss was driven by an unannounced two-week shutdown at a major customer's Pune assembly plant,
+communicated to us only five working days in advance.
+8. Actions committed for Q2 FY 2025-26
+# Action Owner Target date
+1 Complete qualification of Anh Long Semiconductors (Hai Phong, Vietnam) as second source for microcontrollers Category Manager — Electronics 30 Sep 2025
+2 Shift 30% of Shenzhen microcontroller volume to air freight on a planned basis until dual sourcing is live Head of Logistics 15 Aug 2025
+3 Conduct on-site supplier development visit at Kaveri Metals, Coimbatore, focused on die maintenance Supplier Quality Lead 22 Aug 2025
+4 Issue formal improvement plan request to Trident Circuit Boards Category Manager — Electronics 05 Aug 2025
+5 Introduce weekly sales and operations planning call with the top three customers Head of Planning 01 Aug 2025
+6 Reduce raw material cover from 42 days to 38 days by end of Q2 without increasing stoppage risk Head of Planning 30 Sep 2025
+7 Complete customs classification ruling application for microcontroller HS code Trade Compliance Officer 12 Sep 2025
+9. Risks carried into Q2
+1. Single source for microcontrollers. Shenzhen Rui Electronics currently supplies 100% of our microcontroller requirement. Any extended disruption at that supplier halts ECU production entirely. This is our highest-rated supply risk and remains open until Action 1 completes.
+2. Port congestion. Congestion at Nhava Sheva and lengthened customs clearance times are adding an average of 2.9 days to every ocean import lane.
+3. Copper price. Copper prices are up approximately 14% year on year, putting pressure on wire harness margins. Baltic Wire GmbH has signalled a price revision request effective from October 2025.
+4. Regulatory change. A revised Bureau of Indian Standards certification requirement for certain imported electronic components takes effect in October 2025. Compliance readiness for the microcontroller category has not yet been confirmed by either the incumbent or the alternate supplier.
+5. Customer concentration. Our three largest customers account for 71% of quarterly revenue. The June shutdown demonstrated how quickly a single customer's schedule change flows through to our inventory position.

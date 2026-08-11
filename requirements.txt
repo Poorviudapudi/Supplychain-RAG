@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+pypdf==4.3.1
+streamlit==1.38.0
+python-dotenv==1.0.1
+fastapi==0.114.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+fpdf2==2.8.1
+langchain-groq
+fastembed

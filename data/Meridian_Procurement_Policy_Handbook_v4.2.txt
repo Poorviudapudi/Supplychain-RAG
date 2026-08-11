@@ -1,0 +1,150 @@
+Procurement Policy and Supplier Management Handbook
+Meridian Components Pvt. Ltd. · Version 4.2 · Effective 1 April 2025 Document owner: Head of Procurement ·
+Approved by: Chief Operating Officer Review cycle: Annual · Next review due: 31 March 2026 · Document ref:
+MCPL/SCM/POL/4.2 Applies to: All procurement, planning, quality, and logistics personnel at Chakan and Hosur plants
+and the corporate office
+1. Purpose and scope
+This handbook sets out the rules governing how Meridian Components selects, approves, monitors, and, where
+necessary, exits supplier relationships. It applies to all direct material purchases, all indirect purchases above ₹1 lakh,
+and all logistics and freight contracts. It does not cover the purchase of land, buildings, or insurance, which are
+governed separately by the Corporate Finance Policy.
+Where this handbook conflicts with a signed customer-mandated sourcing agreement, the customer agreement
+prevails, and the deviation must be recorded in the deviation register maintained by the Head of Procurement.
+2. Supplier classification
+Every supplier must be classified at onboarding and re-classified annually. Classification determines the depth of
+audit, the frequency of review, and the sourcing rules that apply.
+Class Qualifying criteria (any one is sufficient) Review
+frequency Audit requirement
+Critical Single-source for any part; or annual spend above ₹10 crore; or
+supplies a safety-related component
+Monthly Full on-site audit,
+annually
+Strategic Annual spend between ₹3 crore and ₹10 crore Quarterly On-site audit, every two
+years
+Standard Annual spend between ₹50 lakh and ₹3 crore Half-yearly Desktop audit, every
+two years
+Tail Annual spend below ₹50 lakh Annual Self-assessment
+questionnaire
+A supplier meeting the criteria for more than one class is assigned to the higher class. Reclassification from Critical to
+a lower class requires the written approval of the Head of Procurement.
+3. Approval authority for purchase orders
+Purchase order value Approving authority
+Up to ₹5 lakh Purchase Officer
+Above ₹5 lakh and up to ₹25 lakh Category Manager
+Above ₹25 lakh and up to ₹1 crore Head of Procurement
+Above ₹1 crore and up to ₹5 crore Chief Operating Officer
+Above ₹5 crore Managing Director, with ratification by the Board Procurement Committee
+Splitting a single requirement into multiple purchase orders in order to stay below an approval threshold is a
+disciplinary offence. Annual rate contracts are approved at the value of the full contract, not the value of individual
+releases against it.
+4. Supplier onboarding
+New suppliers must complete all seven steps below before a purchase order can be raised. The target elapsed time
+from step 1 to step 7 is 21 working days.
+Request for information. Capability profile, capacity declaration, customer references, and certifications
+collected.
+Financial health check. Minimum three years of audited financial statements. The supplier must show a debt-to
+equity ratio below 2.0 and a positive net worth. A supplier failing this check may still be onboarded with the written
+approval of the Chief Operating Officer and a reduced payment term.
+Quality system audit. Conducted against the Meridian supplier audit checklist. A minimum score of 75 out of
+100 is required. Scores between 60 and 74 permit conditional onboarding with a corrective action plan closed
+within 90 days. Scores below 60 are a rejection.
+Sample approval. Production part approval to Level 3, including dimensional report, material certificates, and
+capability study, with a minimum process capability index of 1.33 on all designated critical characteristics.
+ESG self-declaration. Covering child and forced labour, environmental permits, and conflict minerals. Mandatory
+for all classes.
+Contract and non-disclosure agreement. Executed on the standard Meridian template. Any deviation from the
+standard terms requires Legal sign-off.
+Vendor master creation. Bank details verified by Finance through an independent call-back to a number
+obtained from public records, never from the supplier's own email footer.
+5. Supplier performance scorecard
+Suppliers are scored every quarter on a 100-point scale using the following weights:
+Dimension Weight Measurement basis
+On-time delivery 30% Receipts within the agreed window as a percentage of total receipts
+Quality 30% Defects per million parts received, at incoming inspection and in-line
+Cost 20% Adherence to agreed price and delivery of committed annual cost reduction
+Responsiveness 10% Acknowledgement within 24 hours; corrective action reports within 10 working
+days
+Environment, social and governance 10% Annual declaration status and audit findings
+Rating bands are applied to the total score:
+Band Score Standing
+A 90 and above Preferred — eligible for new business and long-term agreements
+B 75 to 89 Approved — eligible for new business
+C 60 to 74 Watch — existing business only, improvement plan required
+D Below 60 At risk — business hold applies, see clause 6.4
+For the on-time delivery dimension taken on its own, a supplier delivering below 90% cannot score in band A, and a
+supplier delivering below 75% cannot score in band B.
+6. Performance failures and consequences
+6.1 On-time delivery below 90% in any quarter. A written warning is issued to the supplier within 10 working
+days of quarter close, and the supplier moves to a weekly delivery review call until performance recovers above 90%
+for one full quarter.
+6.2 On-time delivery below 85% for two consecutive quarters. In addition to clause 6.1, a debit note equal to
+2% of the quarterly invoice value is raised against the supplier, and the supplier must submit a formal
+improvement plan within 15 working days. Failure to submit the plan escalates the matter to clause 6.4.
+6.3 Defect rate above 500 parts per million in any quarter. The supplier bears the cost of rework at a standard
+recovery rate of ₹120 per affected unit, and 100% incoming inspection is imposed at the supplier's cost until three
+consecutive lots are accepted without defect.
+6.4 Rating band D for two consecutive quarters. The supplier is placed on business hold. No new requests for
+quotation are issued, no new part numbers are awarded, and a phase-out plan for existing parts must be prepared by
+the Category Manager within 90 days.
+6.5 Late delivery causing a production line stoppage. Documented downtime cost may be recovered from the
+supplier, subject to a cap of 5% of the annual purchase order value for that supplier. Recovery requires a
+downtime record signed by the Plant Head and a root-cause report attributing the stoppage to the supplier.
+6.6 Force majeure. Clauses 6.1 to 6.5 are suspended where the supplier demonstrates a qualifying force majeure
+event within 7 days of its occurrence. Port congestion, customs delays, and currency movement are expressly not
+treated as force majeure.
+7. Sourcing rules
+7.1 Dual sourcing. Every part supplied by a supplier classified as Critical must have a qualified second source in
+place within 12 months of that classification being assigned. Progress is reported monthly to the Management
+Committee.
+7.2 Share of business. No single supplier may hold more than 60% of the volume of any one part once dual
+sourcing is established. Exceptions require the written approval of the Chief Operating Officer and are valid for one
+financial year.
+7.3 New country risk. Onboarding a supplier from a country in which Meridian has no existing supply base requires
+Chief Operating Officer approval, supported by a written assessment of logistics, customs, and currency exposure.
+7.4 Competitive bidding. All requirements above ₹25 lakh require a minimum of three comparable quotations.
+Where only one supplier is technically capable, a single-source justification note must be filed and approved one level
+above the normal approval authority.
+8. Inventory and safety stock policy
+Safety stock for every purchased part is calculated as:
+Safety stock (days) = lead time in days × 0.25, subject to the minimum floors below.
+Part origin and class Minimum safety stock
+Imported, part supplied by a Critical supplier 30 days
+Imported, all other parts 10 days
+Domestic, part supplied by a Critical supplier 15 days
+Domestic, all other parts 5 days
+Where the calculated figure and the floor differ, the higher value applies. Safety stock levels are reviewed monthly
+by the Head of Planning and may be temporarily raised with Head of Procurement approval where a named supply
+risk is open.
+Obsolescence provisioning is applied as follows: 50% of value for stock with no movement for 180 to 365 days, and
+100% of value for stock with no movement beyond 365 days.
+9. Incoterms and freight
+Imports are contracted on FOB terms so that Meridian controls the freight leg and the choice of forwarder. Domestic
+inbound purchases are contracted Ex-Works with freight arranged by Meridian. Exports to customers are contracted
+CIF unless the customer specifies otherwise in a signed agreement.
+Air freight may be used only where a written line-stoppage risk assessment exists. Planned air freight above ₹10 lakh
+per month requires Head of Logistics approval; unplanned emergency air freight requires Chief Operating Officer
+approval within 48 hours of despatch.
+10. Escalation matrix
+Level Owner Response time Typical trigger
+1 Buyer 24 hours Delivery slippage of up to 3 days
+2 Category Manager 48 hours Delivery slippage beyond 3 days, or a rejected lot
+3 Head of Procurement 72 hours Risk of line stoppage within 7 days
+4 Chief Operating Officer 5 working days Actual line stoppage, or supplier insolvency signal
+Every escalation must be logged in the supplier issue register. Closing an escalation requires a documented root
+cause and a verified corrective action, not merely the resumption of supply.
+11. Emergency and spot purchases
+An emergency purchase outside the normal process is permitted only where a production line stoppage is likely within
+72 hours and no approved supplier can meet the requirement. The value is capped at ₹25 lakh per event. The
+purchase must be ratified by the Head of Procurement within 5 working days, supported by the stoppage risk
+assessment that justified it. More than two emergency purchases from the same supplier in one quarter triggers a
+review of that supplier's classification and its safety stock setting.
+12. Payment terms
+Standard payment terms are 60 days from the date of goods receipt. An early payment discount of 1.5% may be
+offered for payment within 15 days, at the discretion of Finance. Suppliers registered as micro or small enterprises are
+paid within 45 days in accordance with statutory requirements, and this term may not be negotiated downward. Any
+deviation from standard terms requires joint approval from the Head of Procurement and the Head of Finance.
+13. Revision history
+Version Date Principal changes
+4.0 1 April 2023 Handbook restructured; scorecard weights introduced
+4.1 1 April 2024 ESG self-declaration made mandatory for all supplier classes
+4.2 1 April 2025 Dual sourcing window shortened from 18 to 12 months; defect recovery rate revised to ₹120 per unit; port congestion and customs delay expressly excluded from force majeure
