@@ -16,7 +16,7 @@ This project is a Retrieval-Augmented Generation (RAG) system for Supply Chain D
 
 1. **Clone the repository** (if not already downloaded)
    ```bash
-   cd supplychain-rag
+   cd Supplychain-RAG
    ```
 
 2. **Create a virtual environment and install dependencies**
