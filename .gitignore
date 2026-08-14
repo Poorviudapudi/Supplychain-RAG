@@ -4,3 +4,4 @@ venv/
 chroma_db/
 temp_uploads/
 *.pdf
+venv311/
