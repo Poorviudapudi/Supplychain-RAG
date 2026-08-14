@@ -78,8 +78,3 @@ This project is a Retrieval-Augmented Generation (RAG) system for Supply Chain D
 
 10. What is the annual salary of the Head of Procurement? (Trap Question)
     > Answer: 
-
-## Notes
-- Make sure to record the 3-minute video showing the app working, answering cross-document questions, and refusing the trap question.
-=======
-# Supplychain
